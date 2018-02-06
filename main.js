@@ -2,7 +2,6 @@ $(document).ready (function(){
   
   function getData(){
   var url = "https://fcc-weather-api.glitch.me/api/current?";
- // var apiKey = "a5394eb34744cc265688fc558213a535";
   var latitude;
   var longitude;
   var havaDurumUrl;
